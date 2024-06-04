@@ -2483,7 +2483,7 @@
 
     {
       "trans": [ -602.21, 334.96, 183.15 ], // translation
-      "etype": "plat", // actor type
+      "etype": "plat-eco", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -602.21, 327.96, 183.15, 10 ], // bounding sphere
@@ -2591,7 +2591,7 @@
 
     {
       "trans": [ -625.08, 294.6, 10.40 ], // translation
-      "etype": "plat", // actor type
+      "etype": "plat-eco", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -625.0, 294.6, 2.914, 10 ], // bounding sphere
@@ -2609,7 +2609,7 @@
 
     {
       "trans": [ -603.21, 294.6, -0.927 ], // translation
-      "etype": "plat", // actor type
+      "etype": "plat-eco", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -603.21, 294.6, -0.927, 10 ], // bounding sphere
