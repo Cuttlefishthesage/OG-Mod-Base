@@ -2155,11 +2155,11 @@
     },
 
     {
-      "trans": [ -618.65, 297.64, -21.02 ], // translation
+      "trans": [ -618.65, 296.64, -21.02 ], // translation
       "etype": "fuel-cell", // actor type
       "game_task": "(game-task afoniddwr-findcell1)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
-      "bsphere": [ -618.65, 297.64, -21.02, 10 ], // bounding sphere
+      "bsphere": [ -618.65, 296.64, -21.02, 10 ], // bounding sphere
       "lump": {
         "name": "afoniddwr-fuel-cell-01",
         "eco-info": [ "int32", 6, 117 ]
@@ -4878,7 +4878,7 @@
     },
 
     {
-      "trans": [ -586.72, 311.67, 182.87 ], // translation
+      "trans": [ -586.72, 311.67, 184.0 ], // translation
       "etype": "swingpole", // actor type
       "game_task": 0, // associated game task (for powercells, etc)
       "quat": [ 0.173, -0.703, -0.686, 0.080 ], // quaternion - Along Z axis in Blender
