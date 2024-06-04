@@ -52,7 +52,7 @@
   // Note: You will still have to add them to your level's .gd file.
   // Removed so that the release builds don't have to double-decompile the game
   // "art_groups": ["plat-ag"],
-  "art_groups": [ "racer-ag", "plat-eco-ag", "babak-ag", "water-anim-sunken-ag", "eichar-pole+0-ag", "pontoonten-ag", "bounceytarp-ag", "lurkerworm-ag", "driller-lurker-ag", "warp-gate-switch-ag", "warp-gate-switch-ag", "ram-ag", "ram-boss-ag", "snowcam-ag" ],
+  "art_groups": [ "racer-ag", "plat-eco-ag", "babak-ag", "water-anim-sunken-ag", "eichar-pole+0-ag", "pontoonten-ag", "bounceytarp-ag", "lurkerworm-ag", "driller-lurker-ag", "warp-gate-switch-ag", "warp-gate-switch-ag", "ram-ag", "ram-boss-ag", "snowcam-ag", "plat-ag" ],
 
    // Any textures you want to include in your custom level. This is mainly useful for things such as the zoomer HUD,
    // which is not in the common level files and has no art group associated with it.
@@ -2465,7 +2465,7 @@
 
     {
       "trans": [ -602.21, 315.32, 183.15 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -602.21, 315.32, 183.15, 10 ], // bounding sphere
@@ -2483,7 +2483,7 @@
 
     {
       "trans": [ -602.21, 334.96, 183.15 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -602.21, 327.96, 183.15, 10 ], // bounding sphere
@@ -2501,7 +2501,7 @@
 
     {
       "trans": [ -591.44, 322.58, 184.41 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -591.44, 322.58, 184.41, 10 ], // bounding sphere
@@ -2519,7 +2519,7 @@
 
     {
       "trans": [ -616.2, 285.1, 48.94 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -602.21, 315.32, 183.15, 10 ], // bounding sphere
@@ -2537,7 +2537,7 @@
 
     {
       "trans": [ -612.1, 285.1, 41.13 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -612.1, 285.1, 41.13, 10 ], // bounding sphere
@@ -2555,7 +2555,7 @@
 
     {
       "trans": [ -617.7, 288.8, 37.30 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -617.7, 288.8, 37.30, 10 ], // bounding sphere
@@ -2573,7 +2573,7 @@
 
     {
       "trans": [ -617.7, 292.7, 19.75 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -617.7, 292.7, 19.75, 10 ], // bounding sphere
@@ -2591,7 +2591,7 @@
 
     {
       "trans": [ -625.08, 294.6, 10.40 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -625.0, 294.6, 2.914, 10 ], // bounding sphere
@@ -2609,7 +2609,7 @@
 
     {
       "trans": [ -603.21, 294.6, -0.927 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -603.21, 294.6, -0.927, 10 ], // bounding sphere
@@ -2627,7 +2627,7 @@
 
     {
       "trans": [ -611.8, 294.6, -10.489 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -611.8, 294.6, -10.489, 10 ], // bounding sphere
@@ -2645,7 +2645,7 @@
 
     {
       "trans": [ -618.78, 294.6, -20.898 ], // translation
-      "etype": "plat-eco", // actor type
+      "etype": "plat", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -618.78, 294.6, -20.898, 10 ], // bounding sphere
