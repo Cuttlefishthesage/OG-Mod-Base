@@ -2465,7 +2465,7 @@
 
     {
       "trans": [ -602.21, 315.32, 183.15 ], // translation
-      "etype": "plat", // actor type
+      "etype": "plat-eco", // actor type
       "game_task": "(game-task none)", // associated game task (for powercells, etc)
       "quat": [ 0, 0, 0, 1 ], // quaternion
       "bsphere": [ -602.21, 315.32, 183.15, 10 ], // bounding sphere
